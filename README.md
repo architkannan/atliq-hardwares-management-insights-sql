@@ -1,5 +1,4 @@
-# atliq-hardwares-management-insights-sql
-# AtliQ Hardwares. Sales, Product Expansion, and Customer Analytics using SQL
+# AtliQ Hardwares - Sales & Product Performance Analysis for Consumer Goods Manufacturer
 
 A SQL-based analytical project focused on extracting actionable insights from sales, product, and customer data to enable faster and more informed decision-making at AtliQ Hardwares.
 
